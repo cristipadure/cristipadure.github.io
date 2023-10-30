@@ -1,5 +1,6 @@
 # [Numele Tău]
 ![geodezie](/assets/img/geodezie.png)
+[afla_mai_multe_aici](about_me.md)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
